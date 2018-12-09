@@ -1,4 +1,4 @@
-import { assertEquals } from "https://cdn.rawgit.com/qoh/assert/v0.1.1/src/index.ts";
+import { assertEquals } from "https://cdn.jsdelivr.net/gh/qoh/assert@v0.1.1/src/index.ts";
 import { parseUrl } from "../src/parse";
 
 const defaultPort = 5432
